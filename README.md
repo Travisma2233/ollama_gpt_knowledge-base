@@ -1,8 +1,19 @@
 # 本地知识库系统
 
 This is a local knowledge base system based on Ollama and OpenRouter, supporting multiple document formats and having document change detection function
+
 这是一个基于 Ollama 和 OpenRouter 的本地知识库系统，支持多种文档格式，并具有文档变更检测功能。
 
+## Features
+
+- Support multiple document formats (txt, md, py, docx, pdf)
+- Use nomic-embed-text for text embedding
+- Use OpenRouter API for Q&A
+- Local persistent storage
+- Automatically detect document updates and deletions
+- Incremental update of knowledge base
+
+- 
 ## 功能特点
 
 - 支持多种文档格式（txt, md, py, docx, pdf）
