@@ -13,7 +13,6 @@ This is a local knowledge base system based on Ollama and OpenRouter, supporting
 - Automatically detect document updates and deletions
 - Incremental update of knowledge base
 
-- 
 ## 功能特点
 
 - 支持多种文档格式（txt, md, py, docx, pdf）
