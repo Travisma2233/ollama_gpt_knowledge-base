@@ -1,5 +1,6 @@
 # 本地知识库系统
 
+This is a local knowledge base system based on Ollama and OpenRouter, supporting multiple document formats and having document change detection function
 这是一个基于 Ollama 和 OpenRouter 的本地知识库系统，支持多种文档格式，并具有文档变更检测功能。
 
 ## 功能特点
